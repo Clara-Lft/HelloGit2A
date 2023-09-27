@@ -1,4 +1,8 @@
-MA PRESENTATION GITHUB
+<<<<<<< HEAD
+MA PRESENTATION FINALE
+=======
+MA PRESENTATION LOCALE
+>>>>>>> f2787e7 (plmus)
 
 Nom : LAFORET
 Prénom : Clara
