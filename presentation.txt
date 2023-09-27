@@ -1,0 +1,6 @@
+Nom : LAFORET
+Prénom : Clara
+Sexe : F
+Taille : 1m70
+Artiste : Moi
+Naissance : Bordeaux
